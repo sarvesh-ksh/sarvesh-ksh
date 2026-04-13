@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/sarvesh-ksh/sarvesh-ksh/output/snake.svg" alt="Snake animation" />
+
+###
+
 💫 Hi 👋, I'm Sarvesh Kshatriya 
 
 Fullstack🕸️ || AIML🤖 || Python🐍 || Data Engineer📈
