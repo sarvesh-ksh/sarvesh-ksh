@@ -54,13 +54,13 @@ Email Me 👉 ✉️ sarveshkshatriya545@gmail.com For Collaboration/Project or 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
-# 📊 GitHub Stats:
+<img src="https://raw.githubusercontent.com/sarvesh-ksh/sarvesh-ksh/output/snake.svg" alt="Snake animation" />
+
+#📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sarvesh-ksh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com?user=sarvesh-ksh&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh-ksh&theme=tokyonight&hide_border=true&layout=compact)
 
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+###
