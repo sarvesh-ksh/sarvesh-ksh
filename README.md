@@ -60,8 +60,6 @@ Email Me 👉 ✉️ sarveshkshatriya545@gmail.com For Collaboration/Project or 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh-ksh&theme=tokyonight&hide_border=true&layout=compact)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sarvesh-ksh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
