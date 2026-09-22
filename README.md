@@ -1,15 +1,15 @@
-💫 Hi 👋, I'm Sarvesh Kshatriya 
+Hi , I'm Sarvesh Kshatriya 
 
-Fullstack🕸️ || AIML🤖 || Python🐍 || Data Engineer📈
+AIML🤖 || Python🐍 || Data Engineer📈
 
 Email Me 👉 ✉️ sarveshkshatriya545@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-🔭 I’m currently working on: Data Engineering Projects & Real-time Data Pipelines  
-🌱 I’m currently learning: DBT, Snowflake, Jinja  
-👯 I’m looking to collaborate on: Data Engineering Projects, ETL Pipelines & Fullstack Applications  
-🤔 I’m looking for help with: Scaling Data Pipelines & Cloud Deployment  
-💬 Ask me about: Fullstack Development, Python, Data Engineering  
-⚡ Fun fact: I Love Tech and Tech Love Me 🚀
+currently working on: Data Engineering Projects & Real-time Data Pipelines  
+currently learning: Databricks  
+looking to collaborate on: Data Engineering Projects, ETL Pipelines  
+looking for help with: Scaling Data Pipelines & Cloud Deployment  
+Ask me about: SQL, Python, Data Engineering  
+Fun fact: I Love Tech and Tech Hate Me 
 
 
 ## 🌐 Socials:
